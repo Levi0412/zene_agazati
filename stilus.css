@@ -46,12 +46,6 @@ p {
     color: #fff4d9;
 }
 
-.image{
-    float: right; 
-    margin-left: 20px; 
-    max-width: 200px; 
-}
-
 article {
     border: 5px solid #999658;
     padding: 5px;
@@ -67,4 +61,7 @@ article h1, article h2 {
     border-top: 2px dotted #5a4535;
     padding: 10px 0;
 
+}
+.nav2{
+    list-style: none;
 }
